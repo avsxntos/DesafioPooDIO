@@ -15,19 +15,19 @@ Vamos dar uma olhada no código em questão, um programa Java que faz um monte d
 
 ### Compilação e Execução
 
-Primeiro, é preciso compilar o código antes de executá-lo. Isso é feito com o comando 'javac', que transforma o código Java em bytecode que a máquina virtual Java (JVM) pode entender. Depois, é usado o comando java para executar a classe Main, que tem o método main, o ponto de partida do programa.
+Primeiro, é preciso compilar o código antes de executá-lo. Isso é feito com o comando `javac`, que transforma o código Java em bytecode que a máquina virtual Java (JVM) pode entender. Depois, é usado o comando `java` para executar a classe `Main`, que tem o método main, o ponto de partida do programa.
 
 ### Processamento de Dados
 
-Em seguida, é criado um array de strings, que é uma estrutura de dados que armazena uma lista de valores do tipo string. Em seguida, é feita uma iteração sobre o array usando um loop for, imprimindo cada valor do array na tela.
+Em seguida, é criado um array de strings, que é uma estrutura de dados que armazena uma lista de valores do tipo string. Em seguida, é feita uma iteração sobre o array usando um loop `for`, imprimindo cada valor do array na tela.
 
 ### Manipulação de Strings
 
-Dentro do loop, é usado o método toUpperCase() para converter cada string em maiúsculas. Isso é feito para padronizar a forma como os dados são apresentados.
+Dentro do loop, é usado o método `toUpperCase()` para converter cada string em maiúsculas. Isso é feito para padronizar a forma como os dados são apresentados.
 
 ### Impressão de Resultados
 
-Por fim, os resultados são impressos na tela, usando o método System.out.println(). Isso permite ver os dados processados.
+Por fim, os resultados são impressos na tela, usando o método `System.out.println()`. Isso permite ver os dados processados.
 
 ### Conclusão
 
